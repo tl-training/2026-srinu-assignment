@@ -41,4 +41,4 @@ export function checkout(price: number, quantity: number): number {
   }
   return price * quantity;
 }
-console.log(checkout(0,1.0)); 
+
